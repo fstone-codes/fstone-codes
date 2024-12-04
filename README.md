@@ -1,4 +1,4 @@
-### Hi there! 👋 
+### Hi there, I'm Freedom! 👋 
 I'm an architectural designer turned software developer who loves creating elegant solutions, whether in buildings or code.
 
 - 🏗️ Architectural designer turned software developer, with 7+ years of experience in creative problem-solving.  
@@ -12,3 +12,11 @@ I'm an architectural designer turned software developer who loves creating elega
 fstone-codes/fstone-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+#### Skills:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,mysql,postman,git,github,figma,ai,ps,autocad" />
+  </a>
+</p>
